@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e98e94e669fe7342be3dd212a30fd66
+timeCreated: 1455322934
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerBulletGo: {fileID: 119826, guid: 4c7f894f8700d854b8577b730c6b6b70, type: 2}
+  - bulletPosition01: {instanceID: 0}
+  - bulletPosition02: {instanceID: 0}
+  - Explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
